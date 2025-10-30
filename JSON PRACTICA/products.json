@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dandy Hats x Rude Awakenings ",
+    "precio": 1500,
+ "imagen" :"https://acdn-us.mitiendanube.com/stores/004/835/010/products/img_8717-0538e5502ffeda3cec17213995524383-1024-1024.webp" },
+  {
+    "id": 2,
+    "nombre": "DANDY HATS FUERZA REGIDA CRYSTALS",
+    "precio": 1500,
+"imagen":"https://vicestreetwear.com/cdn/shop/files/F7A5F5E1-945A-4114-83B5-629E055520AC.jpg?v=1749138771"}, 
+ {
+    "id": 3,
+    "nombre": "DANDY HATS - NEW YORK",
+    "precio": 1500,
+"imagen":"https://mghatsmx.myshopify.com/cdn/shop/files/1_1000x.png-2.webp?v=1718287019"    
+  },
+  {
+    "id": 4,
+    "nombre": "DANDY HATS ANGEL AZUL",
+    "precio": 1500,
+  "imagen":"https://topcapz.com/cdn/shop/files/DSC08632-Edit_ed843d5d-8406-4633-86e3-0449c6dc9e96_1600x_jpg.webp?v=1735173511"
+  },
+  {
+    "id": 5,
+    "nombre": "Gorra Dandy Hats x RudeAwakenings Jesus",
+    "precio": 1500,
+"imagen":"https://vicestreetwear.com/cdn/shop/files/63ac0174-ecda-4539-9c74-bd631753fe7c.jpg?v=1734846193"  },
+  {
+    "id": 6,
+    "nombre": "GORRA 31 HATS // LA ELECTRIC CLOUDS",
+    "precio": 1500,
+"imagen":"https://acdn-us.mitiendanube.com/stores/002/871/583/products/img_3368-56bcb293df9dd1d3ff17528738019454-1024-1024.webp"  },
+  {
+    "id": 7,
+    "nombre": "GORRA 31 HATS NY BLACK IN BLACK",
+    "precio": 1500,
+"imagen":"https://bredkicks.com/cdn/shop/files/03CCF36D-8502-43DF-B745-56BDD613F4EB.png?v=1737080496"  },
+  {
+    "id": 8,
+    "nombre": "Gorra 31 Hats Thirty One Hats NY Pearls Lovers Club",
+    "precio": 1500,
+"imagen":"https://gallerycdmx.com/cdn/shop/files/Capturadepantalla2025-06-20164809.png?v=1750459804"  },
+  {
+    "id": 9,
+    "nombre": "Gorra 31 Hats X Rich Kids N Y New York Crystals",
+    "precio": 1500,
+"imagen":"https://http2.mlstatic.com/D_NQ_NP_641818-MLM85733145980_062025-O-gorra-31-hats-x-rich-kids-n-y-new-york-crystals.webp"  },
+  {
+    "id": 10,
+    "nombre": "GORRA 31 HATS LA CHROME BLACK ",
+    "precio": 1500,
+"imagen":"https://bredkicks.com/cdn/shop/files/D_NQ_NP_843241-MLM80105141592_102024-O.webp?v=1738287169"  },
+  {
+    "id": 11,
+    "nombre": "EL BARBAS HATS CHROME III",
+    "precio": 1500,
+"imagen":"https://topcapz.com/cdn/shop/files/71DBC06A-6E85-4C11-9B37-7A8C229924D8.jpg?v=1724129284"  },
+  {
+    "id": 12,
+    "nombre": "BARBAS HATS CHROME GOLD EDITION",
+    "precio": 1500,
+"imagen":"https://vicestreetwear.com/cdn/shop/files/2_38870b99-71b7-4fdc-bb85-7568b1f06cca.jpg?v=1760935278"  },
+  {
+    "id": 13,
+    "nombre": "Barbas Hats Bad Angel",
+    "precio": 1500,
+"imagen":"https://topcapz.com/cdn/shop/files/D_NQ_NP_823339-MLM78136658348_082024-O.png?v=1724127297&width=1445"  },
+  {
+    "id": 14,
+    "nombre": "Gorra Innedit Muratravis Utopia",
+    "precio": 1500,
+"imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JZczaerHpkp4yTsWERnN5A9iaaKVBmUyYw&s"  },
+  {
+    "id": 15,
+    "nombre": "Barbas Hats x Rich The Kid ",
+    "precio": 1500,
+"imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4Gpvfdm_57wVtwGTeb_63IpuSflD6yFffg&s"  },
+  {
+    "id": 16,
+    "nombre": "Barbas Hats x CT “Rockstar I”",
+    "precio": 1500,
+"imagen":"data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADrbWV0YQAAAAAAAAAhaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAAAAAAAOcGl0bQAAAAAAAQAAAB5pbG9jAAAAAEQAAAEAAQAAAAEAAAETAAAInAAAAChpaW5mAAAAAAABAAAAGmluZmUCAAAAAAEAAGF2MDFDb2xvcgAAAABqaXBycAAAAEtpcGNvAAAAFGlzcGUAAAAAAAAAtAAAALQAAAAQcGl4aQAAAAADCAgIAAAADGF2MUOBAAwAAAAAE2NvbHJuY2x4AAIAAgAGgAAAABdpcG1hAAAAAAAAAAEAAQQBAoMEAAAIpG1kYXQSAAoKGB3s7NggQEDQgDKLERIAAooooUDX/y/3rLea7RhDyMzZ8PacimxtlU63eVL27CFkvVqudbroVZ6uNUqqWGGfrnK6WMpwIIjURtL3xFGCie87rMp4EB3s+oto3CUcKv6LDdFntX8f1xu4CrGg9jyD0E4HlNLO/NCWO5lV4I5DPFcGfaSgR45rShZeMQaEVOUp4wzRdHAm/B6JgKuGJ9+1THbliz30p0paSeE5dUKHfvOKzpC3jjlngqZBBMp5zgXKP9NZmpi81y/4Szhejjjr1kdUahYB8XzugNyIE2eSSWoGGgnMX7or3p4utqucDvFn7/OI6NO328vEXfigmKJ+Dp3V+JxBjKPNw2j8+yY/bHvlvqB6hKuuyjrIXcY3+97ydtWTkgyPSO/XaNIKqqiFX9Q0HJQNpqsOkvF53XhZs5b++LRa1VpWHNHog1jYljHRZRl0Uh1DftjiV+gX4IuV4zArrYIx3ZXGhlAKTt6U9Q/Gs2I98czt9SC739gqAVRvQ/GJ82gTJR1JizLqBrSfeEx0Ln+eD6w2uKC7HCMGADP4LMMZydjSC2yfR4CzaG4kDfjvFI4E+/v7/RdbnXZ0+BPsGJ4c9N0p3WBi8k8+HRDtUfrcK51FF7YUmMPRJMooChsGOf/tFMSDE9nJp1ogGII38g8VCr7QefBfv/3NTOVTclnfpVfn5Ga/taf9ivJ8NNVYImU4Kxrli6iYGuSG3cEfRFobmpN3yPjDKyOYyhLh5dkbeDj35VQziKyRB1uM81UIIhrXHfBffJuNQ6TmgCgc9oHDwMZ/9ALBSzik4LHklsKNJg9y13r8O0T9ED0PRkbgAKgNzqt4OIki4nBhSKxgGlOUFoftLm/a5ae+dWMj+s783aiFVTooMjixCfOgUp1esB7N9wkTEA364fI9qrwQ+flgbCWRDS91yn5kMWScYuO1qoehjY82qttzXcWgmc2txhuD61uELKLC7eXCUCnwS4t7ga4KCim+AB79IM+hPC2PYVIdNGHd9yzbLVQddRJr3UdZiSMLpFZAdTQBUrsFXH2a9VsfTAqZmwGRWazacbn/GsrjyEYr+Z6QClYpgEfZkDXRKnqrtrBDNj3BFcAx2BCgZjKHSkEfDl/o046PHusEExJoh9d6Hb6EsqCgypzlHCxOJSwn7lFMypPpeoWKeIWM+bMICamDqVGDRbkPAHCFWPssdCWya0A6Hch4JXAX1jYr5E3HicXmoRs5O4B9arPqMCXbsYNWRWK8of+5frqHkWD2dZN6j9q8222JNHtkQ+TkqN40HDYyD+ajCM9ECxiRL11p2upD3w0ntRvn04Nf7lRTJwhT02jCzxk/dxfKhmknyF82Foeo/EwCckMi2KSfDfTwwC+E78QuFUtpNP9pv2yLOS5/rgIlsiRIZQj2Nj85vaD88Qa4hSKi8nSCeWWblhGldm+Q1dkuy9h9wcHqW0nXgCaiamP+AbLF+IjUdwvMnHmncruffkjiLqDbm0mRiiNgTprGokaxo5vPUySeeYAstZIbw8665awKBQQnbd11vpTYrpueuiwknEk2h7G8rbb6T4r7bYNVrmHYw6JqYzEZREasqCdlZ6vfnJAHZuznjUZDQ2hExKk942NFcrQJfI5bwwu0YX31Rb9GUn0oMzzfvaPYUAHL3TWs3YOaJrLJIct6zMoeiXzuo9oY/xCwcBxIHvF60tzqugCEFrQQ5gtyFsW7XTW2iWmPRqr7Q2UR+VUcXR7tCJ0JJGD1Bgn41jgbhJzoiZSVtJPrrFR1AsFY5WGEqcmhU7KfmMJtMbEMcDQqPOMk7qo0czvS7jLg4rOpjCwSHmhGG850WQZ4ZXxtq3wtysphyBjH0R03OgOiVqAVkFsJTIuL1+vd64QJwFkqUm5msVKCIcagwcejH1jkd3XkphRuR5lxk75B5n3sefchoBnUYSUDmQUcaENcOOEHYAsSkLcTWoYFQB2mkRA1Lh0hVXxFzEN2VpyXUFA23zt0QmH4uoEAAA1xD09mXf5IaiAUH2jO+m1ZkPHZE84nkPDGrW5g732KIe5W9p1D6XUG5HuuAxET5Ssvn8T0YYzMj+kpO8BnxU6m22E0RkPQeNH3DxGKUwUR70QOAoUwdXUnk/rnWTHwqvtvKv8io6AbRT4YN+jlQLOKMkOqQ9tccO9xjWFwz+1ovLJ4uXU6DImONBKJiaHgiAeCZBjrkfuwyf+qXLtCNqrbYF5OTeE2EUpxZA8Y+p/QQgxL19MA6B+3Q8iy/0OLuSqnROA5kjnVNRIIQ3utnyDSjWp8e9tpa/dB7Y3X2FhA7f2Kw27L0qfRl4SMVWzBFE6uiM26M43Ro2DHyZITwvbncm+eSJTZ1twuM+oZUXrrHsrmXTeORvqD1aQXnRwDnpILOWPTycbQMsIX6KKLltZHdLhF8tWDt7iFQyuUugL+yftSHdF/+hjo85GDxCoO8f0t09phqq+mzgKFx03W4vsHkbIFJrlmNB4OMSL5Fdju99KPNy8wHx+W0Th4Kgy112N+JI3+pRFcTl3LB9/Ve6zyubcKpzKv9oVrmR8slIJGAfhStNwjCJWjGyD1Wlro7GcqpSa0gru0gtZWGpo64kftsBNzfbat7ygfgPM0gyFO5l5Xo7xjUWgjDyA+RjNoXZks2NGNXVstmHcC6x4Pe0PMBI0xM1rDDddGCG3XuXIY0g2HAVezppxIgk+caz5WKNQAa8RlQOW0sohuItEgCAJXw+dAzExYXgDNha2S6fS6MNpYZQbObg1xVqEJYO9A5HE0pKIbuwbylo5svmaSV2sm0rXe9jIvZBRkhO00hq4n6qgNQR4KRbEB3wuB92WXWtYPy0XmPZGzzEeNnNiZAhMOvDCbttvrccZiuxBS/rBNhJI/rCgj5m77DUTl+FtKHuBW/DEbm4n3gd8hyIFpROUW32hpw5lKgA=="  },
+  {
+    "id": 17,
+    "nombre": "GORRA EL BARBAS HATS CHROME I GOLD EDITION (24K GOLD PLATED)",
+    "precio": 1500,
+"imagen":"https://drop-shop.mx/cdn/shop/files/1_900x_efe5dda5-f65d-40ce-8eec-5a900a601052.webp?v=1732561155"},
+  {
+    "id": 18,
+    "nombre": "GORRA JC HATS X NATANAEL CANO ",
+    "precio": 1500,
+"imagen":"https://thekingmodacapsmx.com/cdn/shop/files/4D03C1AE-4CFB-4A32-BB58-6874A84F4074.jpg?v=1737426483&width=1445"  },
+  {
+    "id": 19,
+    "nombre": " Gorra Muratravis Innedit Flower",
+    "precio": 1500,
+"imagen":"https://gallerycdmx.com/cdn/shop/files/Capturadepantalla2025-07-18190348.png?v=1752887040"  },
+  {
+    "id": 20,
+    "nombre": "GORRA INNEDIT MURATRAVIS 1ST ANIVERSARY",
+    "precio": 1500,
+"imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7x_-zHSw0ynIhvhVlpNXY0wZt-ZcEDcDB9w&s"  }
+]
